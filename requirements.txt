@@ -1,0 +1,5 @@
+#stuff for using boot
+webdriver_manager
+selenium
+#stuff for developers tool
+flake8
