@@ -1,5 +1,8 @@
 #stuff for using boot
 webdriver_manager
+cryptography==3.1.1
 selenium
+python-dotenv
 #stuff for developers tool
 flake8
+pre-commit
